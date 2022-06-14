@@ -1,6 +1,6 @@
 <h1 align="center">MOISES GUALAPURO</h1>
 
-<h2 align="center">👋, I´m  Moises from <a href="https://ecuador.travel/en/"> <img alt="ECUADOR" src="https://icons.iconarchive.com/icons/wikipedia/flags/128/EC-Ecuador-Flag-icon.png" width="50" height="40"> </a> and based at <a href="https://www.ikiam.edu.ec/"> <img alt="IKIAM UNIVERSITY" src="https://www.ikiam.edu.ec/img/logo-ikiam-grey.png" width="70" height="40"> </a> > </h2>
+<p align="center">👋, I´m  Moises from <a href="https://ecuador.travel/en/"> <img alt="ECUADOR" src="https://icons.iconarchive.com/icons/wikipedia/flags/128/EC-Ecuador-Flag-icon.png" width="40" height="40"> </a> and based at <a href="https://www.ikiam.edu.ec/"> <img alt="IKIAM UNIVERSITY" src="https://eva.ikiam.edu.ec/pluginfile.php/1/core_admin/logo/0x150/1636497623/logotipoIkiam.png" width="100" height="40"> </a> </p>
 
 <h3 align="center">Biotechnologist and Bioinformatics, interested in Machine Learning and Network Science for Tropical Disease</h3>
 
@@ -59,8 +59,8 @@
   
   <tr>
     <td>UI User Interface and Scientific Design: </td>
-    <td><img src="https://commons.wikimedia.org/wiki/File:LaTeX_logo.svg" alt="latex" width="40" height="40"/></td>
-    <td><img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/qgis/qgis-official.svg" alt="inkscape" width="60" height="50"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/></td>
+    <td><img src="https://seeklogo.com/images/Q/qgis-logo-E3C8191C7F-seeklogo.com.png" alt="qgis" width="60" height="30"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </td>    
   </tr>
