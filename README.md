@@ -6,17 +6,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gualapuromoises" alt="gualapuromoises" /> </p>
 
-- 🔭 I’m currently working on: Evasion strategies to immune response, Quantitative Methods in Biology, Machine Learning and Network Science for Tropical Disease epidemiology.  
+- 🔭 **I’m currently working on**: Evasion strategies to immune response, Quantitative Methods in Biology, Machine Learning and Network Science for Tropical Disease epidemiology.  
 
-- 🌱 I’m currently learning **Bioconductor, Tidyverse, Tensorflow, Pytorch, Flask**.
+- 🌱 **I’m currently learning** Bioconductor, Tidyverse, Tensorflow, Pytorch, Flask.
 
-- 👨‍💻 My projects are available at [🌐🔗Projects🌐](https://gualapuromoises.github.io/project/).
+- 👨‍💻 **My projects are available at** [Projects](https://gualapuromoises.github.io/project/).
 
-- 🤔 Interests: **Quantitative Methods, Time Series, Survival Analysis, Network Science, Machine Learning, Data Science,Viral Infections, Tropical Diseases, NTDs**.
+- 🤔 **Interests:** Quantitative Methods, Time Series, Survival Analysis, Network Science, Machine Learning, Data Science,Viral Infections, Tropical Diseases, NTDs.
 
-- ⚡ Hobbies: jog and hike around, swim at rivers, reading books about science and mystery. Listen Andean folk and house music.
+- ⚡ **Hobbies**: jog and hike around, swim at rivers, reading books about science and mystery. Listen Andean folk and house music.
 
-- More information about me in [my personal webpage](https://gualapuromoises.github.io/).
+- 🙂 **More information** about me in [my personal webpage](https://gualapuromoises.github.io/).
 
 <hr>
 
