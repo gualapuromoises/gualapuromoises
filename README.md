@@ -1,6 +1,6 @@
 <h1 align="center">MOISES GUALAPURO</h1>
 
-<h2 align="center">👋, I´m  Moises from <td><img src="https://icons.iconarchive.com/icons/wikipedia/flags/128/EC-Ecuador-Flag-icon.png" alt="[Ecuador](https://ecuador.travel/en/)" width="40" height="40"/></td> and based at <img src="https://intranet.ikiam.edu.ec/templates/rt_photon/custom/images/logo/logotipoMail.png?5da8ab13" alt="Ikiam-University" width="70" height="40"/> </h2>
+<h2 align="center">👋, I´m  Moises from <a href="https://ecuador.travel/en/"> <img alt="ECUADOR" src="https://icons.iconarchive.com/icons/wikipedia/flags/128/EC-Ecuador-Flag-icon.png" width=150" height="70"> </a> and based at <img src="https://intranet.ikiam.edu.ec/templates/rt_photon/custom/images/logo/logotipoMail.png?5da8ab13" alt="Ikiam-University" width="70" height="40"/> </h2>
 
 <h3 align="center">Biotechnologist and Bioinformatics, interested in Machine Learning and Network Science for Tropical Disease</h3>
 
