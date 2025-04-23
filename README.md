@@ -1,6 +1,6 @@
 <h1 align="center">MOISES GUALAPURO</h1>
 
-<p align="center">👋, I´m  Moises from <a href="https://ecuador.travel/en/"> <img alt="ECUADOR" src="https://icons.iconarchive.com/icons/wikipedia/flags/128/EC-Ecuador-Flag-icon.png" width="20" height="20"> </a> and based at <a href="https://www.ikiam.edu.ec/"> <img alt="Universidad Ikiam" src="https://www.ikiam.edu.ec/wp-content/uploads/2022/05/IKIAM-acreditada.jpg" width="80" height="20"> </a> and <a href="https://compbio.ku.edu/"> <img alt="The University of Kansas" src="https://www.ikiam.edu.ec/wp-content/uploads/2022/05/IKIAM-acreditada.jpg" width="20" height="20"> </a></p>
+<p align="center">👋, I´m  Moises from <a href="https://ecuador.travel/en/"> <img alt="ECUADOR" src="https://icons.iconarchive.com/icons/wikipedia/flags/128/EC-Ecuador-Flag-icon.png" width="20" height="20"> </a> and based at <a href="https://www.ikiam.edu.ec/"> <img alt="Universidad Ikiam" src="https://www.ikiam.edu.ec/wp-content/uploads/2022/05/IKIAM-acreditada.jpg" width="80" height="20"> </a> and <a href="https://compbio.ku.edu/"> <img alt="The University of Kansas" src="https://ku.edu/libraries/ku-web-styleguide/images/logos/KUSig_Horz_Web_White.png" width="40" height="20"> </a></p>
 
 <h3 align="center">Biotechnologist, bioinformatician, and computational biologist, interested in machine learning, complex systems and network science approach to infectious diseases.</h3>
 
