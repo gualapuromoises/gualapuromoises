@@ -2,7 +2,7 @@
 
 <p align="center">👋, I´m  Moises from <a href="https://ecuador.travel/en/"> <img alt="ECUADOR" src="https://icons.iconarchive.com/icons/wikipedia/flags/128/EC-Ecuador-Flag-icon.png" width="40" height="40"> </a> and based at <a href="https://www.ikiam.edu.ec/"> <img alt="IKIAM UNIVERSITY" src="https://eva.ikiam.edu.ec/pluginfile.php/1/core_admin/logo/0x150/1636497623/logotipoIkiam.png" width="100" height="40"> </a> </p>
 
-<h3 align="center">Biotechnologist, bioinformatician, and Computational Biologist, interested in machine learning, complex systems and network science approach to infectious diseases.</h3>
+<h3 align="center">Biotechnologist, bioinformatician, and computational biologist, interested in machine learning, complex systems and network science approach to infectious diseases.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gualapuromoises" alt="gualapuromoises" /> </p>
 
